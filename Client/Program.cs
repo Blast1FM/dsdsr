@@ -9,7 +9,7 @@ namespace Client;
 class Client
 {
     private const string ServerIp = "127.0.0.1";
-    private const int Port = 12345;
+    private const int Port = 3333;
 
     static void Main()
     {
